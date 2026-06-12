@@ -1,2 +1,16 @@
-# sales-revenue-dashboard
-Sales &amp; Revenue Analysis Dashboard built using Power BI. The dashboard includes Total Sales, Total Profit, Total Orders, Revenue Trend Analysis, Top 10 Products by Sales, and Sales by Region. Interactive visualizations were used to generate business insights from the dataset.
+# Sales & Revenue Analysis Dashboard
+
+## Project Overview
+Built an interactive Sales & Revenue Dashboard using Power BI.
+
+## Features
+- Total Sales KPI
+- Total Profit KPI
+- Total Orders KPI
+- Revenue Trend Analysis
+- Top 10 Products by Sales
+- Sales by Region
+
+## Tools Used
+- Power BI
+- Sample Superstore Dataset
